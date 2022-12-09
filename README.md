@@ -2,12 +2,6 @@
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1666499036779/Rfj5wRzqR.png)
 
-# Participant
-
-- Github: [@utsavbhattarai](https://github.com/utsavbhattarai007) , [@aashishpanthi](https://github.com/aashishpanthi)
-
-- Twitter: [@utsavbhatrai007](https://twitter.com/utsavbhatrai007),[@aashishpanthi11](https://twitter.com/aashishpanthi11)
-
 # Description
 
 This is a complete eCommerce storefront app built with Medusa.js, Next.js, and Stripe. This site helps to buy furniture online in just few click. This web app includes:
